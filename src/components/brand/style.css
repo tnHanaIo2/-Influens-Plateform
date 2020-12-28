@@ -1,0 +1,7 @@
+.wrapper__brand{
+    position: relative;
+    top: 65px;
+}
+.ui .card{
+    cursor: pointer;
+}
